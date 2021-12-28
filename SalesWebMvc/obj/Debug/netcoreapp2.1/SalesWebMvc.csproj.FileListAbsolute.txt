@@ -34,3 +34,4 @@ C:\Users\ccaio\OneDrive\Documentos\Projetos Asp.net\SalesWebMvc\SalesWebMvc\obj\
 C:\Users\ccaio\OneDrive\Documentos\Projetos Asp.net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\ccaio\OneDrive\Documentos\Projetos Asp.net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\ccaio\OneDrive\Documentos\Projetos Asp.net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\ccaio\OneDrive\Documentos\Projetos Asp.net\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
